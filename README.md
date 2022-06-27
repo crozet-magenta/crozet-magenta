@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![Stats](https://github-readme-stats.vercel.app/api?username=crozet-magenta&count_private=true&show_icons=true&theme=darcula)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crozet-magenta&theme=darcula)](https://git.io/streak-stats)
+
 ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=crozet-magenta&layout=compact&theme=darcula)
 
 <!--
