@@ -1,10 +1,9 @@
-### Hi there 👋
-![Stats](https://github-readme-stats.vercel.app/api?username=crozet-magenta&count_private=true&show_icons=true&theme=darcula)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crozet-magenta&theme=darcula)](https://git.io/streak-stats)
-
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=crozet-magenta&layout=compact&theme=darcula)
-
+<h2 align="center">Hi there 👋</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=crozet-magenta&count_private=true&show_icons=true&theme=dark" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=crozet-magenta&theme=dark" /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crozet-magenta&layout=compact&theme=dark" /><br />
+</p>
 <!--
 **crozet-magenta/crozet-magenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
